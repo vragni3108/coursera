@@ -1,0 +1,15 @@
+* {
+	box-sizing: border-box;
+}
+
+.content{
+	margin-top: 75px;
+	border-radius: 15px;
+	border: 1px solid;
+}
+
+
+content .p {
+	font-weight: thick;
+}	
+
