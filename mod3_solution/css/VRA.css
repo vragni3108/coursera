@@ -16,16 +16,14 @@ body {
 	background-color: yellow;
 	border: 0;
 	border-radius: 0;
-	margin-top: 2px;
-
+	
 }
 
 #content {
   background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
    margin: 20px;
    color: white;
-  
-   padding: 10PX;
+  padding: 5PX;
 
 }
 
